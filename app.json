@@ -1,0 +1,11 @@
+{
+  "name": "Bot_Mosyen",
+  "description": "Shitpost Andree dan Willem",
+  "repository": "https://github.com/andreesc15/bot_mosyen",
+  "buildpacks": [
+    {"url": "https://github.com/heroku/heroku-buildpack-nginx.git"},
+    {"url": "heroku/python"}
+  ],
+  "stack": "heroku-16",
+  "success_url": "/start/"
+}
