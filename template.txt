@@ -1,0 +1,19 @@
+This House Would ban <objects>
+This House Would abolish <objects>
+This House Would legalize <objects>
+This House Would remove <objects>
+This House Supports the rising trend of <objects>
+This House Celebrates the rising trend of <objects>
+This House Regrets the existence of <objects>
+This House Believes That <events> brings more harm than good
+This House Supports <events>
+This House Celebrates <events>
+This House Regrets <events>
+This House Believes That <objects> brings more harm than good
+As <actors>, This House Would ban <objects>
+As <actors>, This House Would abolish <objects>
+As <actors>, This House Would legalize <objects>
+As <actors>, This House Would remove <objects>
+As <actors>, This House Supports <events>
+As <actors>, This House Celebrates <events>
+As <actors>, This House Believes That <objects> brings more harm than good
