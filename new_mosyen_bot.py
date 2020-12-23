@@ -2,10 +2,10 @@ from random import choice
 import time
 import tweepy
 
-consumer_key ="ButjZZ6Hc7wQNX7Z7yUOGF1hi"
-consumer_secret ="nbHgn2wRoCyJWkdsRjLKxrkHk2dLp2MolvX9beHqtIoIomOliu"
-access_token ="1102923122896822274-MGhRHaCA5CWOTavEYjLdql9JMUYwWC"
-access_token_secret ="xaibDbqfuDIrMQmGtwNZ2IB5scS7fqIaibFNL916XqliJ"
+consumer_key ="[redacted]"
+consumer_secret ="[redacted]"
+access_token ="[redacted]"
+access_token_secret ="[redacted]"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
